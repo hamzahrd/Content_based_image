@@ -63,5 +63,6 @@ let update_table = (data) =>
             ).draw();
         }
     )
+    print("halahala")
 }
 

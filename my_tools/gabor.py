@@ -71,3 +71,4 @@ class GaborDescriptor:
 		variable ,the shape of the return is (64,) for each part of the query image
 		"""
 		return hist.T.flatten() # .T -> transpose && shape == (2 , 32)
+	print("is working")
